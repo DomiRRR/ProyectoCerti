@@ -1,0 +1,14 @@
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\bin\Debug\net8.0\OperacionesMatematicasCS.exe
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\bin\Debug\net8.0\OperacionesMatematicasCS.deps.json
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\bin\Debug\net8.0\OperacionesMatematicasCS.runtimeconfig.json
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\bin\Debug\net8.0\OperacionesMatematicasCS.dll
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\bin\Debug\net8.0\OperacionesMatematicasCS.pdb
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.AssemblyInfoInputs.cache
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.AssemblyInfo.cs
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.csproj.CoreCompileInputs.cache
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.dll
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\refint\OperacionesMatematicasCS.dll
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.pdb
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\OperacionesMatematicasCS.genruntimeconfig.cache
+C:\Users\darky\Downloads\Operaciones\OperacionesMatematicasCS\obj\Debug\net8.0\ref\OperacionesMatematicasCS.dll
